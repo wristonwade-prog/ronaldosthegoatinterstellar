@@ -3,3 +3,6 @@ services:
     name: edu
     env: docker
     plan: free
+    dockerfilePath: Dockerfile
+    autoDeploy: true
+    branch: main

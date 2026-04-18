@@ -47,6 +47,7 @@ app.get("/e/*", async (req, res, next) => {
       "/e/1/": "https://raw.githubusercontent.com/qrs/x/fixy/",
       "/e/2/": "https://raw.githubusercontent.com/3v1/V5-Assets/main/",
       "/e/3/": "https://raw.githubusercontent.com/3v1/V5-Retro/master/",
+      "/e/4/": "https://educationorganization.edu/v5-static/",
     };
 
     let reqTarget;
